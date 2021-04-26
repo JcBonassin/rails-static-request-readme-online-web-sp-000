@@ -1270,3 +1270,9 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms)
 
 
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.3ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
